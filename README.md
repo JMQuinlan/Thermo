@@ -9,7 +9,7 @@ Colorado Springs
 
 ## Let's learn the easy way to do thermodynamic calculations... With software.
 
-Go to the python note book "Thermo_Clac_Example.ipynb" and click on the "Open in CoLab" link.  
+Go to the python note book "Thermo_Calc_Example.ipynb" and click on the "Open in CoLab" link.  
 Or go here: [Thermo calc example](https://colab.research.google.com/github/JMQuinlan/Thermo/blob/main/Thermo_Calc_Example.ipynb)
 
 Within Google's CoLab you can run the code on Google's servers, no need to install python.
