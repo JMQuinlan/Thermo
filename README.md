@@ -3,11 +3,11 @@
 MAE 3302 - Thermo 2  
 University of Colorado  
 Colorado Springs  
+
+©️ 2021 J. M. Quinlan - jquinlan@uccs.edu
 ***
 
 ## Let's learn the easy way to do thermodynamic calculations... With software.
-
-©️ 2021 J. M. Quinlan - jquinlan@uccs.edu
 
 Go to the python note book "Thermo_Clac_Example.ipynb" and click on the "Open in CoLab" link.  
 Or go here: [Thermo calc example](https://colab.research.google.com/github/JMQuinlan/Thermo/blob/main/Thermo_Calc_Example.ipynb)
