@@ -5,7 +5,7 @@ University of Colorado
 Colorado Springs
 ***
 
-## Let's learn the easy why to do thermodynamic calculations... With software.
+## Let's learn the easy way to do thermodynamic calculations... With software.
 
 ©️ 2021 J. M. Quinlan - jquinlan@uccs.edu
 
